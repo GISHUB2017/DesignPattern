@@ -1,6 +1,0 @@
-E:\Study\TopShelf\TopShelf\bin\Debug\TopShelf.exe.config
-E:\Study\TopShelf\TopShelf\bin\Debug\TopShelf.exe
-E:\Study\TopShelf\TopShelf\bin\Debug\TopShelf.pdb
-E:\Study\TopShelf\TopShelf\obj\Debug\TopShelf.csprojResolveAssemblyReference.cache
-E:\Study\TopShelf\TopShelf\obj\Debug\TopShelf.exe
-E:\Study\TopShelf\TopShelf\obj\Debug\TopShelf.pdb
