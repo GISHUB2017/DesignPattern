@@ -1,8 +1,0 @@
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.FormMain.resources
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Properties.Resources.resources
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.GenerateResource.Cache
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
