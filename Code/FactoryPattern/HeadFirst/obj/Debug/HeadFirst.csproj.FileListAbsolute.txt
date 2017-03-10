@@ -44,3 +44,6 @@ E:\GitHubLib\设计模式\Code\工厂模式\HeadFirst\obj\Debug\HeadFirst.csproj
 E:\GitHubLib\设计模式\Code\工厂模式\HeadFirst\obj\Debug\HeadFirst.FormMain.resources
 E:\GitHubLib\设计模式\Code\工厂模式\HeadFirst\obj\Debug\HeadFirst.Properties.Resources.resources
 E:\GitHubLib\设计模式\Code\工厂模式\HeadFirst\obj\Debug\HeadFirst.csproj.GenerateResource.Cache
+E:\GitHubLib\DesignPattern\Code\FactoryPattern\HeadFirst\bin\Debug\HeadFirst.exe.config
+E:\GitHubLib\DesignPattern\Code\FactoryPattern\HeadFirst\obj\Debug\HeadFirst.exe
+E:\GitHubLib\DesignPattern\Code\FactoryPattern\HeadFirst\obj\Debug\HeadFirst.pdb
