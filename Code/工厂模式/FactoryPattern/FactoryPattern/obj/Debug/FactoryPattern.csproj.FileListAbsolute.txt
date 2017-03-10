@@ -11,3 +11,4 @@ E:\GitHubLib\DesignPattern\Code\工厂模式\FactoryPattern\FactoryPattern\bin\D
 E:\GitHubLib\DesignPattern\Code\工厂模式\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.FormMain.resources
 E:\GitHubLib\DesignPattern\Code\工厂模式\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Properties.Resources.resources
 E:\GitHubLib\DesignPattern\Code\工厂模式\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.GenerateResource.Cache
+E:\GitHubLib\DesignPattern\Code\工厂模式\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
