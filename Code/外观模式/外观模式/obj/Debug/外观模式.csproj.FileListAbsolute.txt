@@ -1,6 +1,0 @@
-C:\Users\Administrator\Desktop\演讲分享\设计模式\外观模式代码\外观模式\外观模式\bin\Debug\外观模式.exe.config
-C:\Users\Administrator\Desktop\演讲分享\设计模式\外观模式代码\外观模式\外观模式\bin\Debug\外观模式.exe
-C:\Users\Administrator\Desktop\演讲分享\设计模式\外观模式代码\外观模式\外观模式\bin\Debug\外观模式.pdb
-C:\Users\Administrator\Desktop\演讲分享\设计模式\外观模式代码\外观模式\外观模式\obj\Debug\外观模式.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\演讲分享\设计模式\外观模式代码\外观模式\外观模式\obj\Debug\外观模式.exe
-C:\Users\Administrator\Desktop\演讲分享\设计模式\外观模式代码\外观模式\外观模式\obj\Debug\外观模式.pdb

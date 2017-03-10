@@ -1,5 +1,0 @@
-C:\Users\Administrator\Desktop\演讲分享\设计模式\组合模式代码\组合模式\组合模式求面积\bin\Debug\组合模式求面积.exe.config
-C:\Users\Administrator\Desktop\演讲分享\设计模式\组合模式代码\组合模式\组合模式求面积\bin\Debug\组合模式求面积.exe
-C:\Users\Administrator\Desktop\演讲分享\设计模式\组合模式代码\组合模式\组合模式求面积\bin\Debug\组合模式求面积.pdb
-C:\Users\Administrator\Desktop\演讲分享\设计模式\组合模式代码\组合模式\组合模式求面积\obj\Debug\组合模式求面积.exe
-C:\Users\Administrator\Desktop\演讲分享\设计模式\组合模式代码\组合模式\组合模式求面积\obj\Debug\组合模式求面积.pdb
