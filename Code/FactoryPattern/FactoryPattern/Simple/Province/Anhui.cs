@@ -5,9 +5,14 @@ using System.Text;
 
 namespace FactoryPattern
 {
-    public class Nigth:IRace
+    public class Anhui:IProvince
     {
-        public void ShowKing()
+        public void City()
+        {
+            Console.WriteLine("安徽省的省会是合肥");
+        }
+
+        public void Describe()
         {
             throw new NotImplementedException();
         }

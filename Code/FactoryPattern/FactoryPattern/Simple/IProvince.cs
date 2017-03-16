@@ -5,11 +5,12 @@ using System.Text;
 
 namespace FactoryPattern
 {
-    public class Human:IRace
+    /// <summary>
+    /// 接口
+    /// </summary>
+    public interface IProvince
     {
-        public void ShowKing()
-        {
-            Console.WriteLine("人皇是我");
-        }
+        void City();
+        void Describe();
     }
 }

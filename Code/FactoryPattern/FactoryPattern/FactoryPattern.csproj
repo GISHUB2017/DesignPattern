@@ -47,20 +47,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Simple\Province\Anhui.cs" />
+    <Compile Include="Factory\AnhuiFactory.cs" />
     <Compile Include="FormMain.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormMain.Designer.cs">
       <DependentUpon>FormMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="Simple\Human.cs" />
-    <Compile Include="Simple\IRace.cs" />
-    <Compile Include="Simple\Nigth.cs" />
-    <Compile Include="Simple\Orc.cs" />
+    <Compile Include="Factory\HenanFactory.cs" />
+    <Compile Include="Simple\Province\Henan.cs" />
+    <Compile Include="Simple\IProvince.cs" />
+    <Compile Include="Simple\Province\Hubei.cs" />
+    <Compile Include="Simple\Province\Hunan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Simple\SimpleFactory.cs" />
-    <Compile Include="Simple\Undead.cs" />
+    <Compile Include="Simple\Province\Hebei.cs" />
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
     </EmbeddedResource>
@@ -86,6 +89,7 @@
   <ItemGroup>
     <Content Include="说明.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace FactoryPattern
+namespace Factory
 {
-    public interface IRace
+    public class Class1
     {
-        void ShowKing();
     }
 }
