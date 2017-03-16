@@ -52,5 +52,54 @@ namespace FactoryPattern
             IProvince anhui = AnhuiFactory.CreateInstance();
             anhui.City();
         }
+
+        private void btnTest_Click(object sender, EventArgs e)
+        {
+            //一家披萨店自由点餐
+            APizza a = new APizza();
+            a.Make();
+
+            BPizza b = new BPizza();
+            b.Make();
+
+            CPizza c = new CPizza();
+            c.Make();
+
+            DPizza d = new DPizza();
+            d.Make();
+
+            //简单工厂模式
+            SimplePizzaFactory simple = new SimplePizzaFactory();
+            simple.CreateIstance(PizzaType.A).Make();
+            simple.CreateIstance(PizzaType.B).Make();
+            simple.CreateIstance(PizzaType.C).Make();
+            simple.CreateIstance(PizzaType.D).Make();
+
+            //工厂模式
+            APizzaFactory apizzaF = new APizzaFactory();
+            apizzaF.Create().Make();
+
+            BPizzaFactory bpizzaF = new BPizzaFactory();
+            bpizzaF.Create().Make();
+
+            CPizzaFactory cpizzaF = new CPizzaFactory();
+            cpizzaF.Create().Make();
+
+            DPizzaFactory dpizzaF = new DPizzaFactory();
+            dpizzaF.Create().Make();
+
+            //抽象工厂
+            AbstractFactory1 apf1 = new AbstractFactory1();//分厂1
+            apf1.CreateA().Make();
+            apf1.CreateB().Make();
+            apf1.CreateC().Make();
+            apf1.CreateD().Make();
+
+            AbstractFactory2 apf2 = new AbstractFactory2();//分厂2
+            apf2.CreateA().Make();
+            apf2.CreateB().Make();
+            apf2.CreateC().Make();
+            apf2.CreateD().Make();
+        }
     }
 }

@@ -1,5 +1,4 @@
 E:\GitHubLib\DesignPattern\Code\FactoryPattern\AbstractFactory\bin\Debug\AbstractFactory.dll
 E:\GitHubLib\DesignPattern\Code\FactoryPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
 E:\GitHubLib\DesignPattern\Code\FactoryPattern\AbstractFactory\obj\Debug\AbstractFactory.dll
 E:\GitHubLib\DesignPattern\Code\FactoryPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb

@@ -47,6 +47,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractPizzaFactory\AbstractFactory2.cs" />
+    <Compile Include="AbstractPizzaFactory\AbstractPizzaFactory.cs" />
+    <Compile Include="AbstractPizzaFactory\AbstractFactory1.cs" />
+    <Compile Include="PizzaFactory\DPizzaFactory.cs" />
+    <Compile Include="PizzaFactory\CPizzaFactory.cs" />
+    <Compile Include="PizzaFactory\BPizzaFactory.cs" />
+    <Compile Include="PizzaFactory\APizzaFactory.cs" />
+    <Compile Include="Pizza\DPizza.cs" />
+    <Compile Include="Pizza\CPizza.cs" />
+    <Compile Include="Pizza\BPizza.cs" />
+    <Compile Include="Pizza\APizza.cs" />
+    <Compile Include="Pizza\IPizza.cs" />
+    <Compile Include="SimplePizzaFactory\SimplePizzaFactory.cs" />
     <Compile Include="Simple\Province\Anhui.cs" />
     <Compile Include="Factory\AnhuiFactory.cs" />
     <Compile Include="FormMain.cs">
