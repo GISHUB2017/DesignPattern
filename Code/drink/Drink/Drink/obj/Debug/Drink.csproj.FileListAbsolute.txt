@@ -1,6 +1,0 @@
-E:\CodeShow\drink\Drink\Drink\bin\Debug\Drink.exe.config
-E:\CodeShow\drink\Drink\Drink\bin\Debug\Drink.exe
-E:\CodeShow\drink\Drink\Drink\bin\Debug\Drink.pdb
-E:\CodeShow\drink\Drink\Drink\obj\Debug\Drink.exe
-E:\CodeShow\drink\Drink\Drink\obj\Debug\Drink.pdb
-E:\CodeShow\drink\Drink\Drink\obj\Debug\Drink.csprojResolveAssemblyReference.cache

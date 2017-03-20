@@ -1,6 +1,0 @@
-E:\CodeShow\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe.config
-E:\CodeShow\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe
-E:\CodeShow\Hospital\Hospital\Hospital\bin\Debug\Hospital.pdb
-E:\CodeShow\Hospital\Hospital\Hospital\obj\Debug\Hospital.exe
-E:\CodeShow\Hospital\Hospital\Hospital\obj\Debug\Hospital.pdb
-E:\CodeShow\Hospital\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
