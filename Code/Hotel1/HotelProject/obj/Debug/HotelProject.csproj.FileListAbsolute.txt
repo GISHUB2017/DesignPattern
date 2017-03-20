@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\visual studio 2013\Projects\ConsoleApplication1\HotelProject\bin\Debug\HotelProject.exe.config
+C:\Users\admin\Documents\visual studio 2013\Projects\ConsoleApplication1\HotelProject\bin\Debug\HotelProject.exe
+C:\Users\admin\Documents\visual studio 2013\Projects\ConsoleApplication1\HotelProject\bin\Debug\HotelProject.pdb
+C:\Users\admin\Documents\visual studio 2013\Projects\ConsoleApplication1\HotelProject\obj\Debug\HotelProject.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\visual studio 2013\Projects\ConsoleApplication1\HotelProject\obj\Debug\HotelProject.exe
+C:\Users\admin\Documents\visual studio 2013\Projects\ConsoleApplication1\HotelProject\obj\Debug\HotelProject.pdb
+E:\CodeShow\Hotel1\HotelProject\bin\Debug\HotelProject.exe.config
+E:\CodeShow\Hotel1\HotelProject\obj\Debug\HotelProject.exe
+E:\CodeShow\Hotel1\HotelProject\obj\Debug\HotelProject.pdb
+E:\CodeShow\Hotel1\HotelProject\bin\Debug\HotelProject.exe
+E:\CodeShow\Hotel1\HotelProject\bin\Debug\HotelProject.pdb
+E:\CodeShow\Hotel1\HotelProject\obj\Debug\HotelProject.csprojResolveAssemblyReference.cache
