@@ -1,4 +1,0 @@
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\Factory\bin\Debug\Factory.dll
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\Factory\bin\Debug\Factory.pdb
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\Factory\obj\Debug\Factory.dll
-E:\GitHubLib\DesignPattern\Code\FactoryPattern\Factory\obj\Debug\Factory.pdb
